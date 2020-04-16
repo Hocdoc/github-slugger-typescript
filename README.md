@@ -26,7 +26,7 @@ slugger.slug("foo");        // foo-1
 slugger.slug("foo");        // foo-2
 ```
 
-Using without keeping track of previously slugged strings:
+Useage without keeping track of previously slugged strings:
 
 ```ts
 import { slug } from 'github-slugger-typescript';
